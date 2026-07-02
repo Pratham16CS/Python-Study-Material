@@ -104,7 +104,3 @@ Contributions make the open-source community an amazing place to learn, inspire,
 ---
 
 *Happy Coding!* 🚀
-
-```
-
-```
